@@ -1,4 +1,6 @@
-# React + Vite
+# react-project-1
+
+React + Vite project with custom components.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
